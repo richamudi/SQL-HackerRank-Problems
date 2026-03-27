@@ -14,6 +14,3 @@ This repo contains SQL problems categorized by difficulty.
 - Subqueries
 - Window Functions
 - Aggregations
-
-## 🚀 Goal
-To master SQL for interviews and real-world scenarios.
