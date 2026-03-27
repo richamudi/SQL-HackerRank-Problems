@@ -9,6 +9,7 @@ This repo contains SQL problems categorized by difficulty.
 - Hard
 
 ## 🛠 Topics Covered
+- Basic Functions(Select, Where Clause etc.)
 - Joins
 - Subqueries
 - Window Functions
