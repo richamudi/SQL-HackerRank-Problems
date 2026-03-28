@@ -2,7 +2,7 @@
 `Query all attributes of every Japanese city in the CITY table. The COUNTRYCODE for Japan is JPN.`
 
 ## 🧠 Concept:
-- Select Query
+- Select Query + Where Clause
 
 ## 📅Table Structure:
 The CITY table is described as follows:
