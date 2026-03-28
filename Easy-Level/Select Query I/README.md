@@ -3,7 +3,7 @@
 `Query all columns for all American cities in the CITY table with populations larger than 100000. The CountryCode for America is USA.`
 
 ## 🧠 Concept:
-- Select Query
+- Select Query + Where Clause
 
 ## 📅Table Structure:
 <img width="614" height="480" alt="image" src="https://github.com/user-attachments/assets/13fce0db-2295-483a-87a7-f912f8c34cd2" />
