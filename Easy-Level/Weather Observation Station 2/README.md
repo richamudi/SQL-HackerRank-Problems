@@ -11,7 +11,6 @@
 ## 📅Table Structure:
 The STATION table is described as follows:
 <img width="731" height="523" alt="image" src="https://github.com/user-attachments/assets/d9c9146f-1a6e-4a06-9d46-9e5c64fb2c2b" />
-where LAT_N is the northern latitude and LONG_W is the western longitude.
 
 <img width="1148" height="287" alt="image" src="https://github.com/user-attachments/assets/91918268-eda9-4972-a5c6-db560fa49d48" />
 
