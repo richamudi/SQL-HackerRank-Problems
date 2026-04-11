@@ -1,1 +1,2 @@
-
+SELECT distinct CITY FROM STATION
+WHERE CITY not REGEXP'^[aeiou]'
